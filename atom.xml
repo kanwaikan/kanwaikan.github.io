@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kanwaikan.github.io</id>
     <title>教育</title>
-    <updated>2021-01-05T12:28:48.129Z</updated>
+    <updated>2021-01-05T12:31:41.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kanwaikan.github.io"/>
     <link rel="self" href="https://kanwaikan.github.io/atom.xml"/>
@@ -14,9 +14,8 @@
         <id>https://kanwaikan.github.io/post/introduce/</id>
         <link href="https://kanwaikan.github.io/post/introduce/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="介绍">介绍</h1>
-<p>大家想阅读最新外刊往往困难重重，官网订阅价格奇高、免费资源稀少种类单一、下载程序繁琐、刊期不连续且都是过期期刊、寻找过程耗时耗力……最终大部分的时间都浪费在了寻找资源的过程上。为此这里提供2个解决方案供大家参考。</p>
+        <updated>2016-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>大家想阅读最新外刊往往困难重重，官网订阅价格奇高、免费资源稀少种类单一、下载程序繁琐、刊期不连续且都是过期期刊、寻找过程耗时耗力……最终大部分的时间都浪费在了寻找资源的过程上。为此这里提供2个解决方案供大家参考。</p>
 <hr>
 <h2 id="1-官网阅读">1、官网阅读</h2>
 <p>&quot;You hit the limit of two articles per month. Pay the subscription or get out.&quot;（“你达到了每月两篇文章的限制。支付订阅或退出。”）</p>
